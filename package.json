@@ -1,0 +1,20 @@
+{
+  "name": "cars",
+  "version": "1.0.0",
+  "description": "cars db",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon"
+  },
+  "author": "Urte",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.2",
+    "nodemon": "^2.0.20",
+    "pg": "^8.8.0"
+  }
+}
